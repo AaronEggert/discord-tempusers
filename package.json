@@ -1,0 +1,17 @@
+{
+  "name": "discord-tempusers",
+  "version": "1.0.0",
+  "description": "A discord bot wich will kick users after a specific amout of time if they have the temp/guest role",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AaronEggert",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "dotenv": "^16.3.1",
+    "sqlite3": "^5.1.6"
+  }
+}
