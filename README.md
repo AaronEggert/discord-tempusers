@@ -1,6 +1,10 @@
 # Discord temporary users
 This dicsord bot gives new users autoaticly a guest/temp role.<br> All users with this role will be kicked after a defined amount of time.
 
+## Configuration
+1. Create a [disord application](https://docs.discord4j.com/discord-application-tutorial/) 
+2. edit the .env file
+
 ## Installation
 clone repository: ```git clone https://github.com/AaronEggert/discord-tempusers.git```
 ### Directly with node.js
